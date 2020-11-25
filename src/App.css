@@ -3,7 +3,7 @@ body,
 #root {
 	font: 0.9rem sans-serif;
 	background: #0a1f44;
-	color: #1e2432;
+	color: #181818;
 	height: 100%;
 	margin: 0;
 }
@@ -52,7 +52,7 @@ p {
 	font-size: 5rem;
 	font-weight: bold;
 	margin-top: 10px;
-	color: #1e2432;
+	color: #181818;
 	text-align: center;
 }
 
@@ -69,7 +69,7 @@ p {
 	margin-left: 0.2em;
 	border-radius: 30px;
 	color: #fff;
-	background: #ff8c00;
+	background: #009900;
 }
 
 .city-icon {
@@ -80,6 +80,7 @@ p {
 
 .info {
 	display: flex;
+	font-weight: 700;
 	flex-direction: column;
 	align-items: center;
 }
