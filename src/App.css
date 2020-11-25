@@ -9,8 +9,7 @@ body,
 }
 
 .main-container {
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.418)),
-		url('https://images.unsplash.com/photo-1547380109-a2fffd5b9036?ixlib=rb-1.2.1&auto=format&fit=crop&w=1224&q=80');
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.418)), url(../src/images/bg.jpg);
 	background-size: cover;
 	background-position: center;
 }
