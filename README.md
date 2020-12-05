@@ -4,19 +4,20 @@
 
 ---
 
-<img src="https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/1.jpg" alt="Screenshot0" padding: 3px;;">
+<!-- <img src="https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/1.jpg" alt="Screenshot0" padding: 3px;;"> -->
+![Screenshot0](https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/1.jpg "Click Live App")
 
 ---
 
-<img src="https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/2.jpg" alt="Screenshot1" padding: 3px;;">
+![Screenshot1](https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/2.jpg "Click Live App")
 
 ---
 
-<img src="https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/3.jpg" alt="Screenshot1" padding: 3px;;">
+![Screenshot2](https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/3.jpg "Click Live App")
 
 ---
 
-<img src="https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/4.jpg" alt="Screenshot1" padding: 3px;;">
+![Screenshot3](https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/4.jpg "Click Live App")
 
 ---
 
