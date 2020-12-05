@@ -1,25 +1,22 @@
-<h1 style="text-align:center">Weather App</h1>
-***
+# <h1 style="text-align:center">Weather App</h1>
 
-#Description
-
-<img src="https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/1.jpg" alt="Screenshot0" style="width: 220px;height: 170px;margin: 3px;
-    padding: 3px;;">
+## Description
 
 ---
 
-<img src="https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/2.jpg" alt="Screenshot1" style="width: 220px;height: 170px;margin: 3px;
-    padding: 3px;;">
+<img src="https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/1.jpg" alt="Screenshot0" padding: 3px;;">
 
 ---
 
-<img src="https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/3.jpg" alt="Screenshot1" style="width: 220px;height: 170px;margin: 3px;
-    padding: 3px;;">
+<img src="https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/2.jpg" alt="Screenshot1" padding: 3px;;">
 
 ---
 
-<img src="https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/4.jpg" alt="Screenshot1" style="width: 220px;height: 170px;margin: 3px;
-    padding: 3px;;">
+<img src="https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/3.jpg" alt="Screenshot1" padding: 3px;;">
+
+---
+
+<img src="https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/4.jpg" alt="Screenshot1" padding: 3px;;">
 
 ---
 
