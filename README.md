@@ -1,11 +1,13 @@
 <h1 style="text-align:center">Weather App</h1>
+***
+#Description
 
+<img src="https://tinyurl.com/y3228hqu" alt="Screenshot0" style="width: 220px;height: 170px;margin: 3px;
+    padding: 3px;;">
 ***
 
-<img src="https://www.awesomescreenshot.com/video/1966887?key=630a5df8dc01d3319dee5c88821a2720" alt="demo of app">
-
-<img src="https://hostsupernew.onlineconverter.com/file/4241e9b7180829367af66dcb7cb7878dce/download" alt="demo of app">
-
+<img src="https://tinyurl.com/yxac9exb" alt="Screenshot1" style="width: 220px;height: 170px;margin: 3px;
+    padding: 3px;;">
 
 # Getting Started with Create React App
 
