@@ -29,7 +29,7 @@
 - Library : React.Js
 - IDE : vsCode
 - Hosting : Netlify
-- APi : OpenWeatherMap
+- API : OpenWeatherMap
 
 # 🎓 What I learned ?
 
