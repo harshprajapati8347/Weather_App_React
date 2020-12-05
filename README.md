@@ -1,25 +1,41 @@
-# <h1 style="text-align:center">Weather App</h1>
+# Weather App
 
 ## Description
 
----
+- A Weather App To Check Weather Instantly.
 
-<!-- <img src="https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/1.jpg" alt="Screenshot0" padding: 3px;;"> -->
-![Screenshot0](https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/1.jpg "Click Live App")
+:arrow_forward: [Screenshots](https://github.com/harshprajapati8347/Weather_App_React/tree/main/src/screenshots 'SS in GitHub Repo')
 
----
+## [Live App](https://react-weather-app-pwa-first.netlify.app/ "Click To Launch") : https://react-weather-app-pwa-first.netlify.app/
 
-![Screenshot1](https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/2.jpg "Click Live App")
 
----
-
-![Screenshot2](https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/3.jpg "Click Live App")
+![Screenshot0](https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/1.jpg 'Click Live App')
 
 ---
 
-![Screenshot3](https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/4.jpg "Click Live App")
+![Screenshot1](https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/2.jpg 'Click Live App')
 
 ---
+
+![Screenshot2](https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/3.jpg 'Click Live App')
+
+---
+
+![Screenshot3](https://github.com/harshprajapati8347/Weather_App_React/blob/main/src/screenshots/4.jpg 'Click Live App')
+
+# 🚀 Technologies used to Build:
+
+- Programming Language : JavaScript
+- Library : React.Js
+- IDE : vsCode
+- Hosting : Netlify
+- APi : OpenWeatherMap
+
+# 🎓 What I learned ?
+
+- Fetching & using API's
+- Postman Get, Post requests handling
+
 
 # Getting Started with Create React App
 
